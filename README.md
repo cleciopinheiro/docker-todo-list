@@ -84,4 +84,4 @@ Dentro do terminal, inicie o servidor
 
 ---
 
-Desenvolvido por [Larissa Perinoto](https://www.linkedin.com/in/cleciopinheirodev), © 2022.
+Desenvolvido por [Clécio Pinheiro](https://www.linkedin.com/in/cleciopinheirodev), © 2023.
